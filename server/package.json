@@ -16,7 +16,8 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "pg": "^8.15.6"
+    "pg": "^8.15.6",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
